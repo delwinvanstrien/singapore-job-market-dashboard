@@ -1,0 +1,313 @@
+year,ind1,ind2,avc
+2001,Manufacturing,Manufacturing,1.93
+2001,Construction,Construction,0.92
+2001,Services,Wholesale Trade,1.89
+2001,Services,Retail Trade,1.65
+2001,Services,Transport And Storage,3.21
+2001,Services,Accommodation,1.44
+2001,Services,Food  Beverage Services,0.86
+2001,Services,Information And Communications,2.27
+2001,Services,Financial And Insurance Services,3.43
+2001,Services,Real Estate Services,1.55
+2001,Services,Professional Services,1.73
+2001,Services,Administrative And Support Services,0.87
+2001,Services,Community Social And Personal Services,1.77
+2002,Manufacturing,Manufacturing,1.8
+2002,Construction,Construction,0.87
+2002,Services,Wholesale Trade,1.82
+2002,Services,Retail Trade,1.77
+2002,Services,Transport And Storage,1.78
+2002,Services,Accommodation,1.18
+2002,Services,Food  Beverage Services,0.76
+2002,Services,Information And Communications,2.03
+2002,Services,Financial And Insurance Services,3.24
+2002,Services,Real Estate Services,1.53
+2002,Services,Professional Services,1.54
+2002,Services,Administrative And Support Services,0.83
+2002,Services,Community Social And Personal Services,1.58
+2003,Manufacturing,Manufacturing,1.88
+2003,Construction,Construction,0.75
+2003,Services,Wholesale Trade,1.81
+2003,Services,Retail Trade,1.64
+2003,Services,Transport And Storage,2.15
+2003,Services,Accommodation,1.22
+2003,Services,Food  Beverage Services,0.65
+2003,Services,Information And Communications,2.08
+2003,Services,Financial And Insurance Services,2.7
+2003,Services,Real Estate Services,1.28
+2003,Services,Professional Services,1.51
+2003,Services,Administrative And Support Services,0.7
+2003,Services,Community Social And Personal Services,1.66
+2004,Manufacturing,Manufacturing,1.98
+2004,Construction,Construction,0.95
+2004,Services,Wholesale Trade,1.96
+2004,Services,Retail Trade,1.49
+2004,Services,Transport And Storage,2.26
+2004,Services,Accommodation,1.16
+2004,Services,Food  Beverage Services,0.62
+2004,Services,Information And Communications,2.21
+2004,Services,Financial And Insurance Services,2.99
+2004,Services,Real Estate Services,1.13
+2004,Services,Professional Services,1.78
+2004,Services,Administrative And Support Services,0.67
+2004,Services,Community Social And Personal Services,1.84
+2005,Manufacturing,Manufacturing,2.1
+2005,Construction,Construction,0.98
+2005,Services,Wholesale Trade,2.2
+2005,Services,Retail Trade,1.8
+2005,Services,Transport And Storage,2.84
+2005,Services,Accommodation,1.72
+2005,Services,Food  Beverage Services,0.76
+2005,Services,Information And Communications,2.32
+2005,Services,Financial And Insurance Services,3.12
+2005,Services,Real Estate Services,1.35
+2005,Services,Professional Services,1.86
+2005,Services,Administrative And Support Services,1.1
+2005,Services,Community Social And Personal Services,1.83
+2006,Manufacturing,Manufacturing,2.28
+2006,Construction,Construction,1.19
+2006,Services,Wholesale Trade,2.23
+2006,Services,Retail Trade,2
+2006,Services,Transport And Storage,2.73
+2006,Services,Accommodation,2.09
+2006,Services,Food  Beverage Services,0.78
+2006,Services,Information And Communications,2.68
+2006,Services,Financial And Insurance Services,3.24
+2006,Services,Real Estate Services,1.44
+2006,Services,Professional Services,2.14
+2006,Services,Administrative And Support Services,1.02
+2006,Services,Community Social And Personal Services,2.26
+2007,Manufacturing,Manufacturing,2.45
+2007,Construction,Construction,1.31
+2007,Services,Wholesale Trade,2.34
+2007,Services,Retail Trade,2.08
+2007,Services,Transport And Storage,3.44
+2007,Services,Accommodation,2.48
+2007,Services,Food  Beverage Services,1.08
+2007,Services,Information And Communications,2.5
+2007,Services,Financial And Insurance Services,3.58
+2007,Services,Real Estate Services,1.75
+2007,Services,Professional Services,2.51
+2007,Services,Administrative And Support Services,1.01
+2007,Services,Community Social And Personal Services,2.39
+2008,Manufacturing,Manufacturing,2.39
+2008,Construction,Construction,1.26
+2008,Services,Wholesale Trade,2.27
+2008,Services,Retail Trade,1.72
+2008,Services,Transport And Storage,3.12
+2008,Services,Accommodation,2.66
+2008,Services,Food  Beverage Services,1.15
+2008,Services,Information And Communications,2.49
+2008,Services,Financial And Insurance Services,3.65
+2008,Services,Real Estate Services,1.71
+2008,Services,Professional Services,2.35
+2008,Services,Administrative And Support Services,1.07
+2008,Services,Community Social And Personal Services,2.3
+2009,Manufacturing,Manufacturing,2.34
+2009,Construction,Construction,1.28
+2009,Services,Wholesale Trade,1.77
+2009,Services,Retail Trade,1.55
+2009,Services,Transport And Storage,2.51
+2009,Services,Accommodation,1.96
+2009,Services,Food  Beverage Services,0.83
+2009,Services,Information And Communications,2.18
+2009,Services,Financial And Insurance Services,2.98
+2009,Services,Real Estate Services,1.62
+2009,Services,Professional Services,1.79
+2009,Services,Administrative And Support Services,1
+2009,Services,Community Social And Personal Services,2.03
+2010,Manufacturing,Manufacturing,2.6
+2010,Construction,Construction,1.5
+2010,Services,Wholesale Trade,1.86
+2010,Services,Retail Trade,1.99
+2010,Services,Transport And Storage,2.39
+2010,Services,Accommodation,2.14
+2010,Services,Food  Beverage Services,0.82
+2010,Services,Information And Communications,2.29
+2010,Services,Financial And Insurance Services,3.3
+2010,Services,Real Estate Services,1.66
+2010,Services,Professional Services,2.17
+2010,Services,Administrative And Support Services,1.07
+2010,Services,Community Social And Personal Services,2.37
+2011,Manufacturing,Manufacturing,2.62
+2011,Construction,Construction,1.59
+2011,Services,Wholesale Trade,2.25
+2011,Services,Retail Trade,1.99
+2011,Services,Transport And Storage,2.88
+2011,Services,Accommodation,2.65
+2011,Services,Food  Beverage Services,0.84
+2011,Services,Information And Communications,2.39
+2011,Services,Financial And Insurance Services,3.35
+2011,Services,Real Estate Services,2.08
+2011,Services,Professional Services,2.29
+2011,Services,Administrative And Support Services,1.05
+2011,Services,Community Social And Personal Services,2.46
+2012,Manufacturing,Manufacturing,2.54
+2012,Construction,Construction,1.42
+2012,Services,Wholesale Trade,2.24
+2012,Services,Retail Trade,1.92
+2012,Services,Transport And Storage,2.35
+2012,Services,Accommodation,2.71
+2012,Services,Food  Beverage Services,1
+2012,Services,Information And Communications,2.32
+2012,Services,Financial And Insurance Services,3.12
+2012,Services,Real Estate Services,1.9
+2012,Services,Professional Services,2.09
+2012,Services,Administrative And Support Services,0.96
+2012,Services,Community Social And Personal Services,2.36
+2013,Manufacturing,Manufacturing,2.37
+2013,Construction,Construction,1.49
+2013,Services,Wholesale Trade,2.15
+2013,Services,Retail Trade,1.92
+2013,Services,Transport And Storage,2.4
+2013,Services,Accommodation,2.59
+2013,Services,Food  Beverage Services,0.97
+2013,Services,Information And Communications,2.35
+2013,Services,Financial And Insurance Services,3.26
+2013,Services,Real Estate Services,1.91
+2013,Services,Professional Services,2.14
+2013,Services,Administrative And Support Services,1.07
+2013,Services,Community Social And Personal Services,2.4
+2014,Manufacturing,Manufacturing,2.54
+2014,Construction,Construction,1.46
+2014,Services,Wholesale Trade,2.02
+2014,Services,Retail Trade,1.89
+2014,Services,Transport And Storage,2.39
+2014,Services,Accommodation,2.45
+2014,Services,Food  Beverage Services,0.79
+2014,Services,Information And Communications,2.44
+2014,Services,Financial And Insurance Services,3.37
+2014,Services,Real Estate Services,2.08
+2014,Services,Professional Services,2.02
+2014,Services,Administrative And Support Services,1.14
+2014,Services,Community Social And Personal Services,2.46
+2015,Manufacturing,Manufacturing,2.42
+2015,Construction,Construction,1.4
+2015,Services,Wholesale Trade,2.05
+2015,Services,Retail Trade,1.71
+2015,Services,Transport And Storage,2.49
+2015,Services,Accommodation,2.24
+2015,Services,Food  Beverage Services,0.88
+2015,Services,Information And Communications,2.23
+2015,Services,Financial And Insurance Services,3.38
+2015,Services,Real Estate Services,1.92
+2015,Services,Professional Services,2.05
+2015,Services,Administrative And Support Services,1.14
+2015,Services,Community Social And Personal Services,2.37
+2016,Manufacturing,Manufacturing,2.25
+2016,Construction,Construction,1.45
+2016,Services,Wholesale Trade,2.04
+2016,Services,Retail Trade,1.81
+2016,Services,Transport And Storage,2.68
+2016,Services,Accommodation,2.34
+2016,Services,Food  Beverage Services,0.87
+2016,Services,Information And Communications,2.03
+2016,Services,Financial And Insurance Services,3.28
+2016,Services,Real Estate Services,1.82
+2016,Services,Professional Services,2.03
+2016,Services,Administrative And Support Services,1.23
+2016,Services,Community Social And Personal Services,2.39
+2017,Manufacturing,Manufacturing,2.28
+2017,Construction,Construction,1.27
+2017,Services,Wholesale Trade,1.89
+2017,Services,Retail Trade,1.64
+2017,Services,Transport And Storage,2.65
+2017,Services,Accommodation,2.14
+2017,Services,Food  Beverage Services,0.83
+2017,Services,Information And Communications,1.98
+2017,Services,Financial And Insurance Services,3.34
+2017,Services,Real Estate Services,2.28
+2017,Services,Professional Services,1.95
+2017,Services,Administrative And Support Services,1.38
+2017,Services,Community Social And Personal Services,2.44
+2018,Manufacturing,Manufacturing,2.16
+2018,Construction,Construction,1.11
+2018,Services,Wholesale Trade,1.94
+2018,Services,Retail Trade,1.66
+2018,Services,Transport And Storage,2.66
+2018,Services,Accommodation,2.24
+2018,Services,Food  Beverage Services,0.74
+2018,Services,Information And Communications,1.87
+2018,Services,Financial And Insurance Services,3.13
+2018,Services,Real Estate Services,2.45
+2018,Services,Professional Services,1.96
+2018,Services,Administrative And Support Services,1.07
+2018,Services,Community Social And Personal Services,2.36
+2019,Manufacturing,Manufacturing,1.96
+2019,Construction,Construction,1.12
+2019,Services,Wholesale Trade,1.78
+2019,Services,Retail Trade,1.72
+2019,Services,Transport And Storage,2.42
+2019,Services,Accommodation,1.95
+2019,Services,Food  Beverage Services,0.58
+2019,Services,Information And Communications,1.5
+2019,Services,Financial And Insurance Services,3.23
+2019,Services,Real Estate Services,2.36
+2019,Services,Professional Services,1.85
+2019,Services,Administrative And Support Services,0.91
+2019,Services,Community Social And Personal Services,2.34
+2020,Manufacturing,Manufacturing,1.83
+2020,Construction,Construction,0.78
+2020,Services,Wholesale Trade,1.75
+2020,Services,Retail Trade,1.53
+2020,Services,Transport And Storage,1.99
+2020,Services,Accommodation,1.31
+2020,Services,Food  Beverage Services,0.56
+2020,Services,Information And Communications,1.48
+2020,Services,Financial And Insurance Services,3.21
+2020,Services,Real Estate Services,1.85
+2020,Services,Professional Services,1.77
+2020,Services,Administrative And Support Services,0.83
+2020,Services,Community Social And Personal Services,2.14
+2021,Manufacturing,Manufacturing,1.81
+2021,Construction,Construction,1.02
+2021,Services,Wholesale Trade,1.85
+2021,Services,Retail Trade,2.09
+2021,Services,Transport And Storage,1.92
+2021,Services,Accommodation,1.1
+2021,Services,Food  Beverage Services,0.61
+2021,Services,Information And Communications,1.69
+2021,Services,Financial And Insurance Services,3.14
+2021,Services,Real Estate Services,1.69
+2021,Services,Professional Services,2.31
+2021,Services,Administrative And Support Services,0.72
+2021,Services,Community Social And Personal Services,2.06
+2022,Manufacturing,Manufacturing,2.08
+2022,Construction,Construction,1.16
+2022,Services,Wholesale Trade,2.19
+2022,Services,Retail Trade,2.15
+2022,Services,Transport And Storage,1.91
+2022,Services,Accommodation,1.98
+2022,Services,Food  Beverage Services,0.85
+2022,Services,Information And Communications,1.78
+2022,Services,Financial And Insurance Services,3.31
+2022,Services,Real Estate Services,1.95
+2022,Services,Professional Services,1.92
+2022,Services,Administrative And Support Services,0.78
+2022,Services,Community Social And Personal Services,2.14
+2023,Manufacturing,Manufacturing,1.83
+2023,Construction,Construction,1.23
+2023,Services,Wholesale Trade,2
+2023,Services,Retail Trade,1.16
+2023,Services,Transport And Storage,1.92
+2023,Services,Accommodation,2.12
+2023,Services,Food  Beverage Services,0.7
+2023,Services,Information And Communications,1.75
+2023,Services,Financial And Insurance Services,3.04
+2023,Services,Real Estate Services,2.16
+2023,Services,Professional Services,1.81
+2023,Services,Administrative And Support Services,0.98
+2023,Services,Community Social And Personal Services,2.04
+2024,Manufacturing,Manufacturing,1.87
+2024,Construction,Construction,1.22
+2024,Services,Wholesale Trade,1.97
+2024,Services,Retail Trade,1.21
+2024,Services,Transport And Storage,2.74
+2024,Services,Accommodation,2.09
+2024,Services,Food  Beverage Services,0.62
+2024,Services,Information And Communications,1.39
+2024,Services,Financial And Insurance Services,3.07
+2024,Services,Real Estate Services,1.98
+2024,Services,Professional Services,1.65
+2024,Services,Administrative And Support Services,1.2
+2024,Services,Community Social And Personal Services,2

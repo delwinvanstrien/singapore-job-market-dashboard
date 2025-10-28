@@ -1,0 +1,385 @@
+year,industry,median_gross_monthly_income_including_employer_cpf,median_gross_monthly_income_excluding_employer_cpf
+2001,manufacturing,2471,2167
+2001,construction,2320,2000
+2001,services,2383,2098
+2001,wholesale & retail trade,2067,1913
+2001,transportation & storage,2030,1875
+2001,accommodation & food services,1392,1200
+2001,information & communications,3480,3000
+2001,financial & insurance services,3504,3033
+2001,real estate services,3000,2683
+2001,professional services,3500,3033
+2001,administrative & support services,1500,1300
+2001,public administration & education,3444,3000
+2001,health & social services,2349,2058
+2001,"arts, entertainment & recreation",2000,1800
+2001,"other community, social & personal services",1740,1500
+2001,others,2500,2167
+2002,manufacturing,2500,2167
+2002,construction,2320,2000
+2002,services,2341,2058
+2002,wholesale & retail trade,2030,1950
+2002,transportation & storage,2000,1800
+2002,accommodation & food services,1392,1200
+2002,information & communications,3596,3125
+2002,financial & insurance services,3518,3125
+2002,real estate services,2784,2500
+2002,professional services,3480,3000
+2002,administrative & support services,1508,1300
+2002,public administration & education,3384,2917
+2002,health & social services,2514,2167
+2002,"arts, entertainment & recreation",1972,1700
+2002,"other community, social & personal services",1740,1500
+2002,others,2500,2167
+2003,manufacturing,2514,2167
+2003,construction,2320,2000
+2003,services,2387,2100
+2003,wholesale & retail trade,2088,1950
+2003,transportation & storage,2000,1773
+2003,accommodation & food services,1392,1200
+2003,information & communications,3500,3038
+2003,financial & insurance services,3500,3038
+2003,real estate services,2764,2500
+2003,professional services,3480,3000
+2003,administrative & support services,1484,1300
+2003,public administration & education,3335,2917
+2003,health & social services,2500,2167
+2003,"arts, entertainment & recreation",2166,1948
+2003,"other community, social & personal services",1740,1500
+2003,others,2514,2167
+2004,manufacturing,2449,2167
+2004,construction,2260,2000
+2004,services,2297,2065
+2004,wholesale & retail trade,2034,1950
+2004,transportation & storage,1921,1750
+2004,accommodation & food services,1356,1200
+2004,information & communications,3531,3125
+2004,financial & insurance services,3500,3125
+2004,real estate services,2571,2363
+2004,professional services,3390,3000
+2004,administrative & support services,1469,1300
+2004,public administration & education,3330,2981
+2004,health & social services,2288,2058
+2004,"arts, entertainment & recreation",2081,1913
+2004,"other community, social & personal services",1695,1500
+2004,others,2449,2167
+2006,manufacturing,2588,2333
+2006,construction,2260,2000
+2006,services,2449,2167
+2006,wholesale & retail trade,2204,2000
+2006,transportation & storage,1900,1733
+2006,accommodation & food services,1271,1200
+2006,information & communications,3673,3250
+2006,financial & insurance services,3823,3500
+2006,real estate services,2500,2333
+2006,professional services,3500,3150
+2006,administrative & support services,1356,1200
+2006,public administration & education,3406,3021
+2006,health & social services,2449,2167
+2006,"arts, entertainment & recreation",2034,1813
+2006,"other community, social & personal services",1695,1506
+2006,others,2684,2375
+2007,manufacturing,2825,2500
+2007,construction,2449,2167
+2007,services,2500,2275
+2007,wholesale & retail trade,2184,2000
+2007,transportation & storage,2000,1800
+2007,accommodation & food services,1378,1250
+2007,information & communications,4108,3700
+2007,financial & insurance services,4285,4000
+2007,real estate services,2691,2500
+2007,professional services,3673,3250
+2007,administrative & support services,1526,1400
+2007,public administration & education,3710,3313
+2007,health & social services,2509,2250
+2007,"arts, entertainment & recreation",2049,1954
+2007,"other community, social & personal services",1800,1625
+2007,others,3000,2708
+2007a,manufacturing,2825,2500
+2007a,construction,2449,2167
+2007a,services,2500,2260
+2007a,wholesale & retail trade,2176,2000
+2007a,transportation & storage,2000,1800
+2007a,accommodation & food services,1356,1250
+2007a,information & communications,4068,3683
+2007a,financial & insurance services,4268,3967
+2007a,real estate services,2674,2500
+2007a,professional services,3673,3250
+2007a,administrative & support services,1506,1400
+2007a,public administration & education,3710,3313
+2007a,health & social services,2501,2250
+2007a,"arts, entertainment & recreation",2049,1950
+2007a,"other community, social & personal services",1800,1625
+2007a,others,2982,2704
+2008,manufacturing,3206,2817
+2008,construction,2729,2500
+2008,services,2863,2500
+2008,wholesale & retail trade,2395,2150
+2008,transportation & storage,2233,2000
+2008,accommodation & food services,1489,1313
+2008,information & communications,4274,3746
+2008,financial & insurance services,4924,4333
+2008,real estate services,3221,3000
+2008,professional services,4008,3575
+2008,administrative & support services,1603,1458
+2008,public administration & education,4008,3575
+2008,health & social services,2863,2500
+2008,"arts, entertainment & recreation",2233,2000
+2008,"other community, social & personal services",1915,1733
+2008,others,3460,3063
+2009,manufacturing,3225,2917
+2009,construction,2863,2500
+2009,services,2863,2500
+2009,wholesale & retail trade,2481,2167
+2009,transportation & storage,2210,2000
+2009,accommodation & food services,1489,1354
+2009,information & communications,4525,4000
+2009,financial & insurance services,4676,4100
+2009,real estate services,3101,3000
+2009,professional services,4151,3713
+2009,administrative & support services,1664,1500
+2009,public administration & education,3970,3500
+2009,health & social services,2671,2368
+2009,"arts, entertainment & recreation",2290,2000
+2009,"other community, social & personal services",2000,1950
+2009,others,3128,2817
+2010,manufacturing,3467,3033
+2010,construction,3101,2917
+2010,services,2970,2604
+2010,wholesale & retail trade,2481,2218
+2010,transportation & storage,2291,2058
+2010,accommodation & food services,1575,1500
+2010,information & communications,4466,3980
+2010,financial & insurance services,5338,4734
+2010,real estate services,3435,3098
+2010,professional services,4000,3590
+2010,administrative & support services,1680,1500
+2010,public administration & education,3874,3448
+2010,health & social services,3006,2678
+2010,"arts, entertainment & recreation",2301,2035
+2010,"other community, social & personal services",2080,1950
+2010,others,3435,3000
+2011,manufacturing,3578,3150
+2011,construction,3176,2917
+2011,services,3141,2875
+2011,wholesale & retail trade,2830,2500
+2011,transportation & storage,2416,2167
+2011,accommodation & food services,1764,1600
+2011,information & communications,4932,4333
+2011,financial & insurance services,5588,5000
+2011,real estate services,3500,3190
+2011,professional services,4423,3967
+2011,administrative & support services,1733,1517
+2011,public administration & education,4328,3750
+2011,health & social services,3119,2708
+2011,"arts, entertainment & recreation",2503,2194
+2011,"other community, social & personal services",2082,1950
+2011,others,3500,3180
+2012,manufacturing,3770,3300
+2012,construction,3263,3000
+2012,services,3384,3000
+2012,wholesale & retail trade,3000,2708
+2012,transportation & storage,2500,2167
+2012,accommodation & food services,1740,1517
+2012,information & communications,4838,4281
+2012,financial & insurance services,5751,5000
+2012,real estate services,3915,3500
+2012,professional services,4640,4083
+2012,administrative & support services,1799,1600
+2012,public administration & education,4495,3938
+2012,health & social services,3141,2742
+2012,"arts, entertainment & recreation",2736,2375
+2012,"other community, social & personal services",2289,2000
+2012,others,3654,3250
+2013,manufacturing,4162,3638
+2013,construction,3518,3150
+2013,services,3582,3196
+2013,wholesale & retail trade,3141,2800
+2013,transportation & storage,2675,2475
+2013,accommodation & food services,1800,1625
+2013,information & communications,5414,4701
+2013,financial & insurance services,6090,5400
+2013,real estate services,3857,3500
+2013,professional services,5000,4333
+2013,administrative & support services,1972,1733
+2013,public administration & education,5000,4333
+2013,health & social services,3480,3021
+2013,"arts, entertainment & recreation",2978,2584
+2013,"other community, social & personal services",2395,2167
+2013,others,4022,3500
+2014,manufacturing,4210,3727
+2014,construction,3480,3128
+2014,services,3750,3250
+2014,wholesale & retail trade,3420,3000
+2014,transportation & storage,2797,2500
+2014,accommodation & food services,1915,1733
+2014,information & communications,5026,4433
+2014,financial & insurance services,6300,5625
+2014,real estate services,3500,3229
+2014,professional services,5026,4550
+2014,administrative & support services,2036,1842
+2014,public administration & education,5220,4510
+2014,health & social services,3518,3092
+2014,"arts, entertainment & recreation",2997,2600
+2014,"other community, social & personal services",2514,2200
+2014,others,4060,3600
+2015,manufacturing,4437,3792
+2015,construction,3790,3300
+2015,services,3844,3375
+2015,wholesale & retail trade,3549,3186
+2015,transportation & storage,2916,2511
+2015,accommodation & food services,2000,1800
+2015,information & communications,5460,4792
+2015,financial & insurance services,6338,5483
+2015,real estate services,3611,3250
+2015,professional services,5075,4500
+2015,administrative & support services,2238,1950
+2015,public administration & education,5538,4830
+2015,health & social services,3649,3167
+2015,"arts, entertainment & recreation",3422,3000
+2015,"other community, social & personal services",2662,2400
+2015,others,4292,3761
+2016,manufacturing,4571,3996
+2016,construction,3803,3340
+2016,services,4000,3500
+2016,wholesale & retail trade,3591,3200
+2016,transportation & storage,2925,2600
+2016,accommodation & food services,2106,1899
+2016,information & communications,5265,4569
+2016,financial & insurance services,6240,5417
+2016,real estate services,3390,3000
+2016,professional services,5265,4667
+2016,administrative & support services,2362,2083
+2016,public administration & education,5655,4875
+2016,health & social services,3949,3395
+2016,"arts, entertainment & recreation",3510,3015
+2016,"other community, social & personal services",2925,2500
+2016,others,4081,3500
+2017,manufacturing,4500,3951
+2017,construction,3803,3300
+2017,services,4212,3733
+2017,wholesale & retail trade,3861,3467
+2017,transportation & storage,2925,2600
+2017,accommodation & food services,2123,1950
+2017,information & communications,5704,5000
+2017,financial & insurance services,6581,5760
+2017,real estate services,4183,3792
+2017,professional services,5558,4900
+2017,administrative & support services,2311,2000
+2017,public administration & education,5850,5033
+2017,health & social services,4000,3500
+2017,"arts, entertainment & recreation",3549,3094
+2017,"other community, social & personal services",2925,2600
+2017,others,4407,3792
+2018,manufacturing,4680,4050
+2018,construction,4095,3629
+2018,services,4388,3792
+2018,wholesale & retail trade,4070,3500
+2018,transportation & storage,3161,2800
+2018,accommodation & food services,2308,2000
+2018,information & communications,5719,5000
+2018,financial & insurance services,6540,5688
+2018,real estate services,4475,4000
+2018,professional services,5558,4881
+2018,administrative & support services,2535,2177
+2018,public administration & education,6012,5200
+2018,health & social services,4095,3518
+2018,"arts, entertainment & recreation",3803,3250
+2018,"other community, social & personal services",3089,2708
+2018,others,4368,3750
+2019,manufacturing,5000,4333
+2019,construction,4095,3589
+2019,services,4516,4000
+2019,wholesale & retail trade,4118,3639
+2019,transportation & storage,3225,3000
+2019,accommodation & food services,2300,2000
+2019,information & communications,6047,5300
+2019,financial & insurance services,6913,6000
+2019,real estate services,4520,4072
+2019,professional services,5704,5000
+2019,administrative & support services,2808,2492
+2019,public administration & education,6338,5417
+2019,health & social services,4199,3625
+2019,"arts, entertainment & recreation",4056,3500
+2019,"other community, social & personal services",3250,2909
+2019,others,5070,4333
+2020,manufacturing,4885,4238
+2020,construction,4294,3792
+2020,services,4505,4000
+2020,wholesale & retail trade,4212,3688
+2020,transportation & storage,2925,2600
+2020,accommodation & food services,2282,2000
+2020,information & communications,6330,5417
+2020,financial & insurance services,7020,6050
+2020,real estate services,4437,4000
+2020,professional services,5850,5167
+2020,administrative & support services,2748,2446
+2020,public administration & education,6338,5417
+2020,health & social services,4129,3552
+2020,"arts, entertainment & recreation",3803,3267
+2020,"other community, social & personal services",2996,2600
+2020,others,4437,3958
+2021,manufacturing,4896,4275
+2021,construction,4200,3792
+2021,services,4680,4000
+2021,wholesale & retail trade,4285,3792
+2021,transportation & storage,3168,2821
+2021,accommodation & food services,2457,2167
+2021,information & communications,6092,5311
+2021,financial & insurance services,7069,6200
+2021,real estate services,4095,3727
+2021,professional services,5850,5000
+2021,administrative & support services,2725,2448
+2021,public administration & education,6338,5417
+2021,health & social services,4309,3733
+2021,"arts, entertainment & recreation",3803,3250
+2021,"other community, social & personal services",3296,3000
+2021,others,4437,3967
+2022,manufacturing,5460,4833
+2022,construction,4583,4000
+2022,services,5070,4500
+2022,wholesale & retail trade,4817,4225
+2022,transportation & storage,3510,3090
+2022,accommodation & food services,2640,2383
+2022,information & communications,7000,6000
+2022,financial & insurance services,8190,7292
+2022,real estate services,5000,4333
+2022,professional services,6581,5810
+2022,administrative & support services,2925,2500
+2022,public administration & education,6962,5958
+2022,health & social services,4680,4000
+2022,"arts, entertainment & recreation",4150,3575
+2022,"other community, social & personal services",3510,3000
+2022,others,5176,4550
+2023,manufacturing,5460,4800
+2023,construction,5000,4333
+2023,services,5187,4500
+2023,wholesale & retail trade,4875,4333
+2023,transportation & storage,3554,3250
+2023,accommodation & food services,2853,2500
+2023,information & communications,7320,6400
+2023,financial & insurance services,8190,7250
+2023,real estate services,4777,4200
+2023,professional services,6435,5633
+2023,administrative & support services,3168,2800
+2023,public administration & education,6833,5940
+2023,health & social services,4817,4125
+2023,"arts, entertainment & recreation",4095,3502
+2023,"other community, social & personal services",3721,3250
+2023,others,5079,4500
+2024,manufacturing,5850,5000
+2024,construction,4914,4317
+2024,services,5500,4865
+2024,wholesale & retail trade,5070,4476
+2024,transportation & storage,3900,3500
+2024,accommodation & food services,2974,2600
+2024,information & communications,7605,6500
+2024,financial & insurance services,8736,7583
+2024,real estate services,4908,4333
+2024,professional services,6900,6000
+2024,administrative & support services,3296,2950
+2024,public administration & education,7032,6042
+2024,health & social services,5070,4333
+2024,"arts, entertainment & recreation",4777,4083
+2024,"other community, social & personal services",3510,3000
+2024,others,5786,4945
